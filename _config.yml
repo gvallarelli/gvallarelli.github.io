@@ -1,0 +1,19 @@
+# Site settings
+title: Giuseppe Vallarelli
+author: "Giuseppe Vallarelli"
+header-img: img/home-bg.jpg
+copyright_name: Giuseppe Vallarelli
+description: ""
+baseurl: ""
+url: http://gvallarelli.github.io
+github_username:  gvallarelli
+linkedin_username: giuseppevallarelli
+
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
