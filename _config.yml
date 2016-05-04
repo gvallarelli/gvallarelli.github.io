@@ -10,7 +10,7 @@ github_username:  gvallarelli
 linkedin_username: giuseppevallarelli
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 permalink: pretty
 paginate: 5
