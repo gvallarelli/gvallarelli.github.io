@@ -10,6 +10,7 @@ github_username:  gvallarelli
 linkedin_username: giuseppevallarelli
 
 # Build settings
+encoding: UTF-8
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
