@@ -42,7 +42,7 @@ solution is correct and sound you shouldn't propose a significant change that
 alter the original design, given the same problem it's highly unlikely that
 two developers produce the same solution. The objective is to prevent bugs
 to slip in the codebase not to compete with or make a coworker crossed at you.
-If everything looks good, thumbs up! No need of nitpicking.
+If everything looks good, thumbs up! No need for nitpicking.
 
 ![Man finger pointing](/img/Anger-Man-Pointing-Finger.jpg)
 *Avoid heated debates, they damage teammates morale and harm trust.*
@@ -55,8 +55,8 @@ author, we all tend to be on the defensive when criticized which doesn't
 help to focus on the problem at hand, besides we all make mistakes.
 
 Last but not least important is the time requested for a code review,
-ideally code reviews should happen quickly, in order to increase
-the odds it's very important that the proposed changeset has a manageable
+ideally code reviews should happen quickly, in order to increase the odds
+it's very important that the proposed changeset has a manageable
 size and represents possibly only one logical change.
 
 [1]: http://www.globalquakemodel.org/
